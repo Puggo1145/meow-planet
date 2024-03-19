@@ -1,8 +1,10 @@
+import Introduction from "./_components/introduction";
+
 const MarketingPage: React.FC = () => {
   return (
-    <main className="">
-      This is the marketing page
-    </main>
+    <div className="max-w-[1440px] m-auto">
+      <Introduction />
+    </div>
   );
 };
 
