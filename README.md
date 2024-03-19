@@ -1,2 +1,3 @@
-# meow-planet
-[猫猫星球] Meow Planet is a platform which helps students to better care about cats on campus. All activities, fees, information, and love for cats are contributed by users.
+# meow-planet - (猫猫星球)
+## Introduction
+Meow Planet is a community-driven platform dedicated to enhancing the care of campus cats. It consolidates all activities, financial contributions, information, and affection for cats, solely fueled by user participation.
